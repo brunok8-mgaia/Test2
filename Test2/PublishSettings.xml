@@ -22,24 +22,24 @@
     <qtDefaultName>1</qtDefaultName>
     <rnwkDefaultName>1</rnwkDefaultName>
     <swcDefaultName>1</swcDefaultName>
-    <flashFileName>Untitled-1.swf</flashFileName>
-    <projectorWinFileName>Untitled-1.exe</projectorWinFileName>
-    <projectorMacFileName>Untitled-1.app</projectorMacFileName>
-    <htmlFileName>Untitled-1.html</htmlFileName>
-    <gifFileName>Untitled-1.gif</gifFileName>
-    <jpegFileName>Untitled-1.jpg</jpegFileName>
-    <pngFileName>Untitled-1.png</pngFileName>
-    <qtFileName>Untitled-1.mov</qtFileName>
-    <rnwkFileName>Untitled-1.smil</rnwkFileName>
-    <swcFileName>Untitled-1.swc</swcFileName>
+    <flashFileName>Test2.swf</flashFileName>
+    <projectorWinFileName>Test2.exe</projectorWinFileName>
+    <projectorMacFileName>Test2.app</projectorMacFileName>
+    <htmlFileName>Test2.html</htmlFileName>
+    <gifFileName>Test2.gif</gifFileName>
+    <jpegFileName>Test2.jpg</jpegFileName>
+    <pngFileName>Test2.png</pngFileName>
+    <qtFileName>Test2.mov</qtFileName>
+    <rnwkFileName>Test2.smil</rnwkFileName>
+    <swcFileName>Test2.swc</swcFileName>
   </PublishFormatProperties>
   <PublishHtmlProperties enabled="true">
     <VersionDetectionIfAvailable>0</VersionDetectionIfAvailable>
     <VersionInfo>12,0,0,0;11,2,0,0;11,1,0,0;10,3,0,0;10,2,153,0;10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
     <UsingDefaultContentFilename>1</UsingDefaultContentFilename>
     <UsingDefaultAlternateFilename>1</UsingDefaultAlternateFilename>
-    <ContentFilename>Untitled-1_content.html</ContentFilename>
-    <AlternateFilename>Untitled-1_alternate.html</AlternateFilename>
+    <ContentFilename>Test2.xfl_content.html</ContentFilename>
+    <AlternateFilename>Test2.xfl_alternate.html</AlternateFilename>
     <UsingOwnAlternateFile>0</UsingOwnAlternateFile>
     <OwnAlternateFilename></OwnAlternateFilename>
     <Width>550</Width>
